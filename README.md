@@ -1,3 +1,3 @@
-Azure App Service created with Node.JS LTS version 14
+Create an Azure App Service with Node.JS LTS version 14
 
  
