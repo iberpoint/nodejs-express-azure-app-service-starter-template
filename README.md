@@ -1,2 +1,3 @@
-# nodejs-express-azure-app-service-starter-kit
+Azure App Service created with Node.JS LTS version 14
+
  
